@@ -1,2 +1,3 @@
 # Inventory_Optimization
-Test
+
+Developed regression models and ARIMA to forecast retail product demand using historical sales, pricing, and promotional features
